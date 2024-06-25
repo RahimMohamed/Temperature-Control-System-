@@ -1,0 +1,22 @@
+build/default/debug/functions.p1:  \
+functions.c  \
+appliction.h  \
+ECU_LAYER/DC_MOTOR/ecu_dc_motor.h  \
+ECU_LAYER/DC_MOTOR/ecu_dc_motor_cfg.h  \
+ECU_LAYER/DC_MOTOR/../../MCAL_LAYER/GPIO/hal_gpio.h  \
+ECU_LAYER/DC_MOTOR/../../MCAL_LAYER/GPIO/../mcal_std_types.h  \
+ECU_LAYER/DC_MOTOR/../../MCAL_LAYER/GPIO/../compiler.h  \
+ECU_LAYER/DC_MOTOR/../../MCAL_LAYER/GPIO/../std_libraries.h  \
+ECU_LAYER/DC_MOTOR/../../MCAL_LAYER/GPIO/../device_config/device_config.h  \
+ECU_LAYER/LCD/ecu_lcd.h  \
+ECU_LAYER/LCD/ecu_lcd_cfg.h  \
+MCAL_LAYER/ADC/adc.h  \
+MCAL_LAYER/ADC/../interrupt/mcal_internal_interrupt.h  \
+MCAL_LAYER/ADC/../interrupt/mcal_interrupt_config.h  \
+MCAL_LAYER/ADC/../interrupt/mcal_interrupt_gen_cfg.h  \
+MCAL_LAYER/ADC/adc_cfg.h  \
+MCAL_LAYER/CCP/CCP.h  \
+MCAL_LAYER/CCP/CCP_cfg.h  \
+MCAL_LAYER/Timer2/TMR2.h  \
+MCAL_LAYER/interrupt/mcal_external_interrupt.h  \
+MCAL_LAYER/Timer3/TMR3.h 
